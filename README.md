@@ -8,6 +8,7 @@
 
 - [Introduction](#introduction)
 - [Process](#process)
+- [Setup](#setup)
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
 
@@ -31,6 +32,15 @@ Here are steps of the process I went through to create the AI model:
 * Trained initial stock predictor model
 * Evaluated model error and created backtesting method
 * Improved the model with new predictor columns
+
+## Setup
+
+Here is how to launch this project on your own device:
+
+1. Open stock_market_predictor.ipynb in this Github repo
+2. Click the "Raw" button
+3. Save the raw text with the .ipynb file extension
+4. Run Jupyter Lab and select the file to open
 
 ## Contributors
 
