@@ -18,9 +18,9 @@
 
 Welcome to my Stock Market Predictor repository! :wave:
 
-This project was my first experience using the Jupyter Lab software. I used Pandas and Scikit-learn to train and evaluated a machine learning model that would predict whether the S&P 500 would go up or not. 
+This project was my first experience using the Jupyter Lab software. I used Pandas and Scikit-learn to train a machine learning model that would predict whether the S&P 500 would go up or not. After evaluating the model, I then used feature engineering to improve its performance. :bar_chart:
 
-I completed this project using the guidance of a tutorial created by Dataquest on Youtube. Their channel and video are linked in the acknowledgments section.
+I completed this project through the guidance of a tutorial created by Dataquest on Youtube. The creator's channel and tutorial video are linked in the acknowledgments section. :arrow_forward:
 
 ## Process
 
@@ -35,7 +35,7 @@ Here are steps of the process I went through to create the AI model:
 
 ## Setup
 
-Here is how to launch this project on your own device:
+Here are some instructions on how to launch this project on your own device:
 
 1. Open stock_market_predictor.ipynb in this Github repo
 2. Click the "Raw" button
@@ -44,10 +44,10 @@ Here is how to launch this project on your own device:
 
 ## Contributors
 
-All model training and evaluation was done my me.
+All the model training and prediction evaluation was done my me.
 
 Feel free to check out my [profile](http://github.com/charleswal-a)!
 
 ## Acknowledgments
 
-Huge thanks to [Dataquest](https://www.youtube.com/@Dataquestio) on Youtube for creating the amazing [tutorial](https://www.youtube.com/watch?v=1O_BenficgE) to this project!
+A huge thanks to [Dataquest](https://www.youtube.com/@Dataquestio) on Youtube for creating the amazing [tutorial](https://www.youtube.com/watch?v=1O_BenficgE) behind this project!
